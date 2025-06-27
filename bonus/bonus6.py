@@ -10,5 +10,5 @@ for content, filename in zip(contents, filenames):
 
 
 
-a = "I am a string " \
+a = "I am a string "
     
