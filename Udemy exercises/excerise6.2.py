@@ -8,8 +8,6 @@
 #
 # (4) prints out the updated content.
 #
-#
-#
 # Here is the expected output:
 #
 # The True Meaning Of Obscurity Lies Underneath The Most Delicate Structures Of Viscosity. The Idea Of Changing That Balance Is Obscure By Itself.
